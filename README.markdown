@@ -14,7 +14,7 @@ Issues
 ------
 
 Did you find issue?
-Please report it [here](https://github.com/vim-scripts/Dart.git/issues).
+Please report it [here](https://github.com/vim-scripts/Dart/issues).
 Thanks!
 
 TODO
